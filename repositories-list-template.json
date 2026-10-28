@@ -26,6 +26,11 @@
     "rdlc_phase": ["Research data life cycle phase. (data repository - share, data source - reuse)"],
     "topic": ["Need to discuss this!"],
     "repo_type": ["also requires discussion"],
-    "sensitive_data": false
+    "sensitive_data": false,
+    "category": "Need to understand what this is from prec med",
+    "registry centre": "I guess this is just who owns the data?",
+    "start_date": "for collection to begin?",
+    "last verified": "date for last verification",
+    "metdata source": "need to understand"
   }
 ]
