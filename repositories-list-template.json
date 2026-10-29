@@ -20,7 +20,6 @@
     "images_no_background": "filepath URL to image in GitHub from images without background folder",
     "image_border": true,
     "url": "URL for the repository/data source",
-    "DOI": true,
     "provider": "what organisation provides the repo/source",
     "European": true,
     "related": ["related file formats - a list?"],
@@ -31,8 +30,8 @@
     "id": "Used in field called related",
     "cohort_classification": ["biobank_study", "cohort_infrastructure", "disease_specific_cohort", "population_cohort", "N/A"],
     "registry_cohort_category": ["National cancer quality registry", "National quality registry", "Other quality registry", "research_cohort", "N/A"],
-    "registry centre": "I guess this is just who owns the data?",
-    "start_date": "for collection to begin?",
-    "metdata source": "need to understand"
+    "registry centre": ["Kvalitetsregistercentrum Stockholm", "Regionala Cancercentrum i Samverkan", "Registercentrum Norr", "Registercentrum Syd", "Registercentrum Sydost", "Registercentrum Västra Götaland", "Uppsala Clinical Research Center", "N/A"],
+    "start_date": ["YYYY", "Unknown", "N/A"],
+    "metadata_source": ["SKR", "SND", "N/A"]
   }
 ]
