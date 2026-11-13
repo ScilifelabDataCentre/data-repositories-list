@@ -1,0 +1,28 @@
+cff-version: 1.2.1
+message: "This is the repository for SciLifelab list of data sources and repositories, a central list used by multiple repositories"
+authors:
+- family-names: "Hughes"
+  given-names: "Liane"
+  orcid: 0000-0002-4784-5436
+- family-names: "Kallberg"
+  given-names: "Yvonne"
+  orcid: 0000-0002-3977-9600
+- family-names: "Asklof"
+  given-names: "Anna"
+- family-names: "Nilsson"
+  given-names: "Alma "
+  orcid: 0009-0004-8501-642X
+- family-names: "Venkatesh"
+  given-names: "Nalina Hamsaiyni"
+  orcid: 0000-0002-0641-7953 
+- family-names: Joubert
+  given-names: Suné
+  orcid: 0009-0008-7845-4906
+- family-names: Sendecka
+  given-names: Joanna
+  orcid: 0009-0002-6665-2856
+- family-names: Benzian Olsson
+  given-names: Natashia
+  orcid: 0000-0002-5287-7707
+title: "data-repositories-list"
+url: "https://github.com/ScilifelabDataCentre/data-repositories-list"
